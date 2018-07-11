@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 9 de June de 2018 08:11
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.6
+PHP INFO:	5.6.30 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 44.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from /usr/bin/mysqldump 
+TABLES: total:14 | filtered:0 | create:14 
+SQL CREATED: 20180329_devnet_8a8eb1130ed046071774180609081123_database.sql 
+SQL FILE SIZE: 626.17KB (641203) 
+SQL FILE TIME: 2018-06-09 08:11:37 
+SQL RUNTIME: 0.15 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/bage3921/public_html/lajeado360.com 
+ARCHIVE FILE: 20180329_devnet_8a8eb1130ed046071774180609081123_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	63.29MB 
+STATS:	Dirs 439 | Files 3,230 
+SQL ADDED: 20180329_devnet_8a8eb1130ed046071774180609081123_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3669
+    [filename] => /home/bage3921/public_html/lajeado360.com/wp-snapshots/tmp/20180329_devnet_8a8eb1130ed046071774180609081123_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 31.79MB 
+ARCHIVE RUNTIME: 11.51 sec. 
+MEMORY STACK: 46.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/home/bage3921/public_html/lajeado360.com/wp-snapshots/tmp/20180329_devnet_8a8eb1130ed046071774180609081123_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 626.17KB 
+Installer File: 445.87KB 
+Archive File: 31.79MB  
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 12.15 sec.
+PEAK PHP MEMORY USED: 48.75MB
+DONE PROCESSING => 20180329_devnet 9 de June de 2018 08:11
+ 
